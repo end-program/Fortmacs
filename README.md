@@ -1,5 +1,9 @@
 <h1 align="center"><img src="docs/logo/social.svg" alt="Fortmacs" width="480"></h1>
 
+> [!IMPORTANT]
+> **Fortmacs has moved to GitLab:** <https://gitlab.com/end-program/fortmacs>.
+> This GitHub repository is no longer maintained; please file issues and merge requests there.
+
 GNU Emacs 31.1 rewritten in modern Fortran (2018+), for Linux on x86-64 and
 aarch64. There is no Elisp: your configuration is a Fortran module compiled
 into the binary, and every rebuild is a numbered generation you can roll
