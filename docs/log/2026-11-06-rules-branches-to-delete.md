@@ -1,1 +1,0 @@
-2026-11-06 — CLAUDE.md: every report ends with a "Branches to delete:" list of merged branches still on GitHub, carried until the owner says they are gone (`rules-branches-to-delete`, owner); with automatic head-branch deletion on, it holds only strays.

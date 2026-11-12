@@ -1,4 +1,0 @@
-class Number
-{
-   int intNumber;
-};
