@@ -1,3 +1,0 @@
-# The fixture baseline: one current entry and one that no longer occurs.
-sample.f90:memq:lisp-helper
-sample.f90:gone:wrapper

@@ -1,1 +1,0 @@
-2026-11-06 — README: renames in "Differences from Emacs" are written old→new (defun→subprogram, `kill_region`→`cut_region`), and the `C-M-f` example is dropped, since the keys-unchanged item already says keys stay (`readme-arrows`, owner).
